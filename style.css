@@ -141,3 +141,22 @@ img{
     font-size: 24px;
     text-align: right;
 }
+
+.bottom{
+    background: #3882f6;
+    color: white;
+    display: flex;
+    justify-content: space-between;
+    padding: 60px 100px 60px 100px;
+    margin: 100px 200px 100px 200px;
+    border-radius: 10px;
+}
+
+.up{
+    font-weight: bold;
+    font-size: 24px;
+}
+
+.down{
+    color: #f9faf8;
+}

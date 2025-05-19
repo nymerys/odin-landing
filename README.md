@@ -1,1 +1,2 @@
 # odin-landing
+This is is the Landing Page project of the Odin Project Foundations course. Here, I will create an entire webpage to primarily demonstrate the concepts and skills I have developed from Flexbox, as well as other CSS elements. It will serve as the final project of this course before I move onto the last unit of Javascript.

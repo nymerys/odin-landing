@@ -21,12 +21,13 @@ body{
 .heading{
     display: flex;
     justify-content: space-between;
-    align-items: flex-start;
+    align-items: center;
 }
 
 .links{
     display: flex;
-    gap: 8px;
+    gap: 10px;
+    align-items: center;
 }
 
 a{
@@ -116,6 +117,7 @@ button.sign2{
 
 img{
     border-radius: 10px;
+    object-fit: cover;
 }
 
 .middle{
@@ -152,6 +154,12 @@ img{
     border-radius: 10px;
 }
 
+.action{
+    display: flex;
+    flex-direction: column;
+    gap: 8px;
+}
+
 .up{
     font-weight: bold;
     font-size: 24px;
@@ -163,4 +171,7 @@ img{
 
 .footer{
     text-align: center;
+    background-color: #1f2937;
+    padding: 50px 0px 50px 0px;
+    color: #f9faf8;
 }
